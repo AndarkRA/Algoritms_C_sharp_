@@ -1,0 +1,16 @@
+
+Algoritms_homeworks/.vs/Algoritms_homeworks/v17/.suo
+*.props
+Algoritms_homeworks/Algoritms_homeworks/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+Algoritms_homeworks/Algoritms_homeworks/obj/Algoritms_homeworks.csproj.nuget.g.targets
+*.cache
+Algoritms_homeworks/Algoritms_homeworks/obj/Debug/net6.0/Algoritms_homeworks.GlobalUsings.g.cs
+*.json
+*.editorconfig
+*.csproj
+Algoritms_homeworks/Algoritms_homeworks/obj/Debug/net6.0/Algoritms_homeworks.AssemblyInfo.cs
+*.dll
+*.exe
+*.txt
+*.BuildWithSkipAnalyzers
+*.pdb
